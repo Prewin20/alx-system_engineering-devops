@@ -1,1 +1,1 @@
-echo “Shell permissions”
+“Shell permissions”
